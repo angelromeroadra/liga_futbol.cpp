@@ -1,0 +1,15 @@
+# Configuracion de la liga
+# Formato: clave=valor
+
+liga=Liga Ejemplo 2025
+victoria=3
+empate=1
+derrota=0
+
+# Equipos participantes
+equipo=Real Madrid
+equipo=Barcelona
+equipo=Atletico de Madrid
+equipo=Sevilla FC
+equipo=Valencia CF
+equipo=Villarreal
